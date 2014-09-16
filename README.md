@@ -19,6 +19,7 @@
 | Emulation Settings      |                   | <kbd>Ctrl+8</kbd>     |
 | Small Console**         | <kbd>Esc</kbd>    | <kbd>Ctrl+`</kbd>     | <kbd>Esc</kbd> | <kbd>Esc</kbd> |
 | Small Console Focus     |                   | <kbd>Ctrl+Alt+I</kbd>
+| Dock/Undock Tools       |                   | <kbd>Ctrl+P</kbd>
 
 \* Ctrl-Navigation needs to be enabled in settings.<br>
 \** Popup console available in any non-console tool.
@@ -29,3 +30,5 @@
 |---------------------|-------------------------|-------------------------|-------------------------|-------------------------|
 | Click to Inspect    | <kbd>Ctrl+Shift+C</kbd> | <kbd>Ctrl+B</kbd>       | <kbd>Ctrl+Shift+C</kbd> | <kbd>Ctrl+Shift+C</kbd> |
 | Toggle Highlighting |                         | <kbd>Ctrl+Shift+I</kbd>
+| Open Color Picker   |                         | <kbd>Ctrl+K</kbd>
+| Search DOM          | <kbd>Ctrl+F</kbd>       | <kbd>Ctrl+F</kbd>       | <kbd>Ctrl+F</kbd>       | <kbd>Ctrl+F</kbd>
