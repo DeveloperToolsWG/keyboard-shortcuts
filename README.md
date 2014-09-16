@@ -1,10 +1,14 @@
 #F12 Developer Tools Shortcuts
 
+The following resources are provided for those who would like to contribute to the support tables below.
+
 * [Keyboard Shortcuts in Chrome](https://developer.chrome.com/devtools/docs/shortcuts)
 * [Keyboard Shortcuts in Firefox](https://developer.mozilla.org/en-US/docs/Tools/Keyboard_shortcuts)
 * [Keyboard Shortcuts in Explorer](http://msdn.microsoft.com/en-us/library/ie/dn322041(v=vs.85).aspx)
 
 ###Getting Around Quickly
+
+These shortcuts should work from within any panel in the developer tools.
 
 | Action                  | Chrome*           | Explorer              | Firefox        | Opera*         |
 |-------------------------|-------------------|-----------------------|----------------|----------------|
@@ -27,6 +31,8 @@
 \** Popup console available in any non-console tool.
 
 ###Inspecting the DOM
+
+The following shortcuts are supported only within the DOM inspection panel.
 
 | Action              | Chrome                  | Explorer                | Firefox                 | Opera                   |
 |---------------------|-------------------------|-------------------------|-------------------------|-------------------------|
