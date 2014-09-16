@@ -20,6 +20,8 @@
 | Small Console**         | <kbd>Esc</kbd>    | <kbd>Ctrl+`</kbd>     | <kbd>Esc</kbd> | <kbd>Esc</kbd> |
 | Small Console Focus     |                   | <kbd>Ctrl+Alt+I</kbd>
 | Dock/Undock Tools       |                   | <kbd>Ctrl+P</kbd>
+| Previous Tool           | <kbd>Ctrl+[</kbd> | <kbd>Ctrl+[</kbd>     |                | <kbd>Ctrl+[</kbd>
+| Next Tool               | <kbd>Ctrl+]</kbd> | <kbd>Ctrl+]</kbd>     |                | <kbd>Ctrl+]</kbd>
 
 \* Ctrl-Navigation needs to be enabled in settings.<br>
 \** Popup console available in any non-console tool.
