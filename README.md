@@ -1,5 +1,9 @@
 #F12 Developer Tools Shortcuts
 
+* [Keyboard Shortcuts in Chrome](https://developer.chrome.com/devtools/docs/shortcuts)
+* [Keyboard Shortcuts in Firefox](https://developer.mozilla.org/en-US/docs/Tools/Keyboard_shortcuts)
+* [Keyboard Shortcuts in Explorer](http://msdn.microsoft.com/en-us/library/ie/dn322041(v=vs.85).aspx)
+
 ###Getting Around Quickly
 
 | Action                  | Chrome*           | Explorer          | Firefox        | Opera*         |
